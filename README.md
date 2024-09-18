@@ -4,7 +4,7 @@
  This is advance PowerBI Dashboard of a company of QSR sector , in this project we have shown best performing product & employee . In this project we have gone through companies finacial in deep like GP,NP,NR,YoY,Volume and many more...  I have also done pareto analysis,very intersting projects took alot of time in creating dashboard especially in data cleaning part.
 
  ### Dashboard 
- <b>You can see my [dashboard]([https://drive.google.com/file/d/1OLU2aIQL7VV3rHYu85_BsTrvtFEo_T7B/view?usp=sharing](https://drive.google.com/file/d/1OLU2aIQL7VV3rHYu85_BsTrvtFEo_T7B/view?usp=sharing))</b>
+ <b>You can see my [dashboard](https://drive.google.com/file/d/1OLU2aIQL7VV3rHYu85_BsTrvtFEo_T7B/view?usp=sharing)</b>
 
 ### Data source 
 You can download raw data [Raw_uncleaned_data](https://docs.google.com/spreadsheets/d/1LAMEFICn4FGkQfAhXFshEMKqD5yXz41b/edit?usp=sharing&ouid=107567012891711251105&rtpof=true&sd=true)
